@@ -6,3 +6,10 @@ Add your etherscan API key. Rate limiting is built into the script.
 
 Script will read saved html file and extract contract addresses to 'contract_list.txt' then pull all contracts and export to individual .sol files
 
+required: nodejs, jquery, cheerio
+
+# how to use
+
+npm install
+
+node etherscan_scraper.js
