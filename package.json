@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0"
+  },
+  "name": "etherscan_contracts",
+  "version": "1.0.0",
+  "main": "etherscan_scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
